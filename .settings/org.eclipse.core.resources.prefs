@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/controller/AtmState.java=UTF-8
+encoding//src/controller/ChangePin.java=UTF-8
+encoding//src/controller/NoCardState.java=UTF-8
+encoding//src/controller/WaitForConformWihtdrawState.java=UTF-8
+encoding//src/controller/WaitForContinueOrNotState.java=UTF-8
+encoding//src/controller/WaitForEjectCardState.java=UTF-8
+encoding//src/controller/WaitForEnterPinState.java=UTF-8
+encoding//src/controller/WaitForTakeCardBeforeCashAndBillState.java=UTF-8
+encoding//src/controller/WaitForTakeCardBeforeCashNotBillState.java=UTF-8
+encoding//src/controller/WaitForchooseMoneyState.java=UTF-8
+encoding//src/view/CardReader.java=UTF-8
+encoding//src/view/Screen.java=UTF-8
